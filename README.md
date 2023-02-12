@@ -1,5 +1,5 @@
 # OpenAmogus
-![AmogusPhoto](https://cdn.discordapp.com/attachments/1033591394280931378/1066907388411658280/IMG_4113.png)<br />
+![AmogusPhoto](https://media.discordapp.net/attachments/225450307654647808/1066954223956262932/20230122_213245.png?width=377&height=670)<br />
 OpenAmogus is a unique tool, designed for FTC teams of all sizes. When using OpenAmogus, you'll find that when entering the drive box, you enter with style and pizazz. Expect scores to
 jump up to 20%, thanks to our unique AI trained AmogusOpMode neural networks.
 
